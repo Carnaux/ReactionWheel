@@ -17,3 +17,6 @@ Unfortunately the motor doesn't respond fast enougth to equilibrate the system. 
 
 
 # Images
+![alt text](https://raw.githubusercontent.com/Carnaux/ReactionWheel/Master/images/image1.jpg)
+
+![alt text](https://raw.githubusercontent.com/Carnaux/ReactionWheel/Master/images/image2.jpg)
