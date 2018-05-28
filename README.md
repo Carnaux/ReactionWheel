@@ -17,6 +17,6 @@ Unfortunately the motor doesn't respond fast enougth to equilibrate the system. 
 
 
 # Images
-![alt text](./images/image1.jpg)
+![alt text](../images/image1.jpg)
 
-![alt text](./images/image2.jpg)
+![alt text](../images/image2.jpg)
